@@ -27,12 +27,6 @@
 
 ---
 
-## 📊 GitHub Statistiken
-
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samuel-Mencke&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Mencke&layout=compact&theme=tokyonight) |
-| :---: | :---: |
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Samuel-Mencke&theme=tokyonight) | ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Samuel-Mencke&theme=tokyonight&column=4) |
-
 **Weitere Statistik-Interfaces:**
 
 - **Contributions Heatmap:** `https://ghchart.rshah.org/Samuel-Mencke`  
@@ -50,15 +44,12 @@
 
 ---
 
-## 🖥️ Interaktive Features
+## 📊 Weitere Statistik-Interfaces
 
-Hier ein paar coole Interface-Gimmicks speziell für GitHub Profile, die kaum jemand nutzt:
+| Contributions Heatmap | Pinned Repository | Gist Analytics | Follower Badge |
+| :---: | :---: | :---: | :---: |
+| ![Contributions Heatmap](https://ghchart.rshah.org/Samuel-Mencke) | ![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=Samuel-Mencke&repo=REPO) | ![Gist Analytics](https://github-readme-gist-stats.vercel.app/api?username=Samuel-Mencke) | ![Followers](https://github-readme-stats.vercel.app/api?username=Samuel-Mencke&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=false) |
 
-- **📂 Collapsible Sections:** Klappbare Bereiche für Details zu Projekten oder FAQs.
-- **💬 Hover-Tooltips:** Erklärende Hinweise oder Links beim Überfahren von Wörtern/Icons.
-- **⬆️ Progress-On-Scroll Indicator:** Ein schmaler Balken zeigt den Scroll-Fortschritt an.
-- **🔗 Live-Links mit Badges:** Dynamische Badges in Text-Links (z. B. [![Link](https://img.shields.io/badge/Visit-Portfolio-blue)]()).
-- **📈 Animated Counters:** Zähler, die beim Sichtbarwerden animiert hochzählen (z. B. Projekte, Commits).
-- **🖱️ Custom Cursor Styles:** Ein individueller Cursor, der zum Stil deines Profils passt.
+---
 
 ### Danke fürs Reinschauen! 🚀
