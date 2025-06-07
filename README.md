@@ -8,6 +8,9 @@
 ## 📫 Kontakt
 📧 Samuelmencke31@gmail.com
 
+## 🔗 Portfolio
+[Meine Portfolio-Seite](https://deine-portfolio-url.de) Aktuell Noch nicht verfügbar
+
 ---
 
 ## 🛠️ Skills
@@ -30,4 +33,6 @@
 
 ## 🤓 Dev-Life
 
+> „Warum funktioniert das?“ – *Ich, nachdem der Bug weg ist.*  
+> „Läuft auf meinem Rechner.“ – *Offizieller QA-Stempel*  
 > „Das ist kein Bug, das ist ein Feature mit Charakter.“ 😎
