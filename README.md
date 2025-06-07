@@ -10,13 +10,6 @@
 
 ---
 
-## 🤓 Dev-Life
-
-> „Warum funktioniert das?“ – *Ich, nachdem der Bug weg ist.*  
-> „Läuft auf meinem Rechner.“ – *Offizieller QA-Stempel*
-
----
-
 ## 🛠️ Skills
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
@@ -32,3 +25,9 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samuel-Mencke&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Mencke&layout=compact&theme=tokyonight)
+
+---
+
+## 🤓 Dev-Life
+
+> „Das ist kein Bug, das ist ein Feature mit Charakter.“ 😎
