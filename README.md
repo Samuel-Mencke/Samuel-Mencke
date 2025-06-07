@@ -27,29 +27,6 @@
 
 ---
 
-**Weitere Statistik-Interfaces:**
-
-- **Contributions Heatmap:** `https://ghchart.rshah.org/Samuel-Mencke`  
-- **Pinned Repositories:** `https://github-readme-stats.vercel.app/api/pin/?username=Samuel-Mencke&repo=<repo-name>`  
-- **Gist Analytics:** `https://github-readme-gist-stats.vercel.app/api?username=Sam`  
-- **Follower Badge:** `https://github-readme-streak-stats.herokuapp.com/?user=Samuel-Mencke&mode=follower`  
-
----
-
 ## 🤓 Dev-Life
 
-> „Warum funktioniert das?“ – *Ich, nachdem der Bug weg ist.*  
-> „Läuft auf meinem Rechner.“ – *Offizieller QA-Stempel*  
 > „Das ist kein Bug, das ist ein Feature mit Charakter.“ 😎
-
----
-
-## 📊 Weitere Statistik-Interfaces
-
-| Contributions Heatmap | Pinned Repository | Gist Analytics | Follower Badge |
-| :---: | :---: | :---: | :---: |
-| ![Contributions Heatmap](https://ghchart.rshah.org/Samuel-Mencke) | ![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=Samuel-Mencke&repo=REPO) | ![Gist Analytics](https://github-readme-gist-stats.vercel.app/api?username=Samuel-Mencke) | ![Followers](https://github-readme-stats.vercel.app/api?username=Samuel-Mencke&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=false) |
-
----
-
-### Danke fürs Reinschauen! 🚀
