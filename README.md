@@ -9,7 +9,8 @@
 📧 Samuelmencke31@gmail.com
 
 ## 🔗 Portfolio
-[Meine Portfolio-Seite](https://deine-portfolio-url.de) Aktuell Noch nicht verfügbar
+[Meine Portfolio-Seite]([https://deine-portfolio-url.de](https://Samuel-Mencke.github.io
+)
 
 ---
 
