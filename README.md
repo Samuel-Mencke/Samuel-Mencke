@@ -27,9 +27,7 @@
 
 ---
 
-## 📈 Beiträge Heatmap
-
-![Contributions Heatmap](https://ghchart.rshah.org/Samuel-Mencke)
+<img src="https://ghchart.rshah.org/Samuel-Mencke" alt="Contributions Heatmap" width="100%" />
 
 ---
 
