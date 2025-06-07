@@ -25,9 +25,6 @@
 | :---: | :---: |
 | ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Samuel-Mencke&theme=tokyonight&column=4) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Mencke&layout=compact&theme=tokyonight) |
 
----: | :---: |
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Samuel-Mencke&theme=tokyonight) | ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Samuel-Mencke&theme=tokyonight&column=4) |
-
 ---
 
 <img src="https://ghchart.rshah.org/Samuel-Mencke" alt="Contributions Heatmap" width="100%" />
