@@ -27,6 +27,12 @@
 
 ---
 
+## 📈 Beiträge Heatmap
+
+![Contributions Heatmap](https://ghchart.rshah.org/Samuel-Mencke)
+
+---
+
 ## 🤓 Dev-Life
 
 > „Das ist kein Bug, das ist ein Feature mit Charakter.“ 😎
