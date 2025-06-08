@@ -5,13 +5,7 @@
 <p align="center">
   <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="100px" alt="Über mich">
   &nbsp;&nbsp;
-  <strong>Über mich</strong>
-  &nbsp;&nbsp;
   <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="100px" alt="">
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Samuel-Mencke.Samuel-Mencke" alt="Besucher-Badge" />
 </p>
 
 ---
@@ -73,5 +67,9 @@
   <a href="https://samuel-mencke.gitbook.io"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=fff" alt="Portfolio"></a>
   <a href="https://twitter.com/samuelmencke"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=fff" alt="Twitter"></a>
 </div>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Samuel-Mencke.Samuel-Mencke" alt="Besucher-Badge">
+</p>
 
 ---
