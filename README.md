@@ -11,12 +11,6 @@
 </p>
 
 <div align="left" style="margin-bottom: 30px;">
-  <a href="mailto:samuelmencke31@gmail.com" target="_blank" style="margin-right: 12px;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
-  <a href="https://codepen.io/Samuel-Mencke" target="_blank" style="margin-right: 12px;">
-    <img src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white&style=for-the-badge" height="25" alt="codepen logo" />
-  </a>
   <a href="https://samuel-mencke.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Mein%20Portfolio-Visit-blue?style=for-the-badge&logo=github" height="25" alt="Portfolio" />
   </a>
