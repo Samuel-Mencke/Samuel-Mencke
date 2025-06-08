@@ -1,9 +1,3 @@
-<p align="left">
-  <a href="https://samuel-mencke.github.io/">
-    <img src="https://img.shields.io/badge/Mein%20Portfolio-Visit-blue?style=for-the-badge&logo=github" alt="Portfolio" />
-  </a>
-</p>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Hi+There!+I'm+Samuel+Mencke!" alt="Hi There, I'm Samuel Mencke" />
 </h1>
@@ -12,18 +6,21 @@
 
 <h3 align="left">👩‍💻 About Me</h3>
 
-<div align="center">
-  <a href="mailto:samuelmencke31@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
-  <a href="https://codepen.io/Samuel-Mencke" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&color=000000&logoColor=white&style=for-the-badge" height="25" alt="codepen logo" />
-  </a>
-</div>
-
-<p align="left" style="margin-top: 15px;">
+<p align="left" style="margin-bottom: 15px;">
   I'm Samuel from Germany, a full-stack web developer focused on web and app development. In my spare time, I also enjoy game development as a hobby.
 </p>
+
+<div align="left" style="margin-bottom: 30px;">
+  <a href="mailto:samuelmencke31@gmail.com" target="_blank" style="margin-right: 12px;">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+  <a href="https://codepen.io/Samuel-Mencke" target="_blank" style="margin-right: 12px;">
+    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&color=000000&logoColor=white&style=for-the-badge" height="25" alt="codepen logo" />
+  </a>
+  <a href="https://samuel-mencke.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Mein%20Portfolio-Visit-blue?style=for-the-badge&logo=github" alt="Portfolio" height="25" />
+  </a>
+</div>
 
 ###
 
