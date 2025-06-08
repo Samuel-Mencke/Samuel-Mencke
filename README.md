@@ -44,23 +44,28 @@
 ## 🏆 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samuel-Mencke&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="80%" />
-  <br><strong style="font-size:1.4em">Statistics</strong>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samuel-Mencke&theme=tokyonight" alt="GitHub Streak" width="80%" />
-  <br><strong style="font-size:1.4em">Streak</strong>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Samuel-Mencke&theme=tokyonight&column=4" alt="GitHub Trophies" width="80%" />
-  <br><strong style="font-size:1.4em">Trophies</strong>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Mencke&layout=compact&theme=tokyonight" alt="Top Languages" width="80%" />
-  <br><strong style="font-size:1.4em">Top Languages</strong>
+  <table width="100%">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Samuel-Mencke&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="300" />
+        <br><strong style="font-size:1.4em">Statistics</strong>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samuel-Mencke&theme=tokyonight" alt="GitHub Streak" width="300" />
+        <br><strong style="font-size:1.4em">Streak</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-profile-trophy.vercel.app/?username=Samuel-Mencke&theme=tokyonight&column=4" alt="GitHub Trophies" width="300" />
+        <br><strong style="font-size:1.4em">Trophies</strong>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Mencke&layout=compact&theme=tokyonight" alt="Top Languages" width="300" />
+        <br><strong style="font-size:1.4em">Top Languages</strong>
+      </td>
+    </tr>
+  </table>
 </p>
 
 <p align="center">
