@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">👩‍💻 About Me</h3>
+<h3 align="left" style="font-size: 1.8em; margin-bottom: 10px;">👩‍💻 About Me</h3>
 
 <p align="left" style="margin-bottom: 15px;">
   I'm Samuel from Germany, a full-stack web developer focused on web and app development. In my spare time, I also enjoy game development as a hobby.
@@ -12,21 +12,21 @@
 
 <div align="left" style="margin-bottom: 30px;">
   <a href="mailto:samuelmencke31@gmail.com" target="_blank" style="margin-right: 12px;">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="gmail logo" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
   <a href="https://codepen.io/Samuel-Mencke" target="_blank" style="margin-right: 12px;">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&color=000000&logoColor=white&style=for-the-badge" height="25" alt="codepen logo" />
+    <img src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white&style=for-the-badge" height="25" alt="codepen logo" />
   </a>
   <a href="https://samuel-mencke.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Mein%20Portfolio-Visit-blue?style=for-the-badge&logo=github" alt="Portfolio" height="25" />
+    <img src="https://img.shields.io/badge/Mein%20Portfolio-Visit-blue?style=for-the-badge&logo=github" height="25" alt="Portfolio" />
   </a>
 </div>
 
 ###
 
-<h3 align="left">🛠 Languages and Tools</h3>
+<h3 align="left" style="margin-bottom: 10px;">🛠 Languages and Tools</h3>
 
-<div align="left" style="margin-top: 10px;">
+<div align="left" style="margin-top: 10px; margin-bottom: 30px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
@@ -48,17 +48,17 @@
 
 ###
 
-<h3 align="left">Github</h3>
+<h3 align="left" style="margin-bottom: 10px;">Github</h3>
 
-<div align="left" style="margin-top: 10px;">
+<div align="left" style="margin-top: 10px; margin-bottom: 20px;">
   <img src="https://streak-stats.demolab.com?user=Samuel-Mencke&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
-<div align="left" style="margin-top: 10px;">
+<div align="left" style="margin-bottom: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Samuel-Mencke&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Samuel-Mencke&layout=compact&card_width=320&langs_count=5&theme=dracula&locale=en&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
-<div align="left" style="margin-top: 10px;">
+<div align="left" style="margin-bottom: 30px;">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Samuel-Mencke.Samuel-Mencke" alt="visitor badge" />
 </div>
