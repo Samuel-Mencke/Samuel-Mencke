@@ -1,7 +1,9 @@
 <p align="center">
-  <a href="https://samuel-mencke.gitbook.io">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=1FF773&center=true&vCenter=true&width=435&height=60&lines=Besuche+mein+Portfolio+!" alt="Typing SVG">
-  </a>
+  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="100px" alt="Über mich">
+  &nbsp;&nbsp;
+  <strong>Über mich</strong>
+  &nbsp;&nbsp;
+  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="100px" alt="">
 </p>
 
 <p align="center">
