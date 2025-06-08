@@ -40,16 +40,37 @@
 
 ---
 
-## 📊 GitHub Insights
+## 🏆 GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samuel-Mencke&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samuel-Mencke&theme=tokyonight" alt="GitHub Streak" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Samuel-Mencke&theme=tokyonight&column=4" alt="GitHub Trophy" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Mencke&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-</div>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Samuel-Mencke&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="220" />
+        <br>Statistics
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samuel-Mencke&theme=tokyonight" alt="GitHub Streak" width="220" />
+        <br>Streak
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=Samuel-Mencke&theme=tokyonight&column=4" alt="GitHub Trophies" width="220" />
+        <br>Trophies
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Mencke&layout=compact&theme=tokyonight" alt="Top Languages" width="220" />
+        <br>Top Languages
+      </td>
+    </tr>
+  </table>
+</p>
 
-![Contributions](https://ghchart.rshah.org/Samuel-Mencke)
+<p align="center">
+  ![Contributions](https://ghchart.rshah.org/Samuel-Mencke)
+  <br>Contributions Heatmap
+</p>
 
 ---
 
