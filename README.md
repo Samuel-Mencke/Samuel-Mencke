@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=27F76A&width=360&lines=%C3%9Cber+mich" alt="Über mich Animation" />
-</p>
-
-<p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Samuel-Mencke.Samuel-Mencke" />
 </p>
 
