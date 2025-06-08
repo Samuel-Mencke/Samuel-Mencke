@@ -48,17 +48,17 @@
     <tr>
       <td align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=Samuel-Mencke&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="220" />
-        <br>Statistics
+        <br><strong style="font-size:1.2em">Statistics</strong>
       </td>
       <td align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samuel-Mencke&theme=tokyonight" alt="GitHub Streak" width="220" />
-        <br>Streak
+        <br><strong style="font-size:1.2em">Streak</strong>
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=Samuel-Mencke&theme=tokyonight&column=4" alt="GitHub Trophies" width="220" />
-        <br>Trophies
+        <br><strong style="font-size:1.2em">Trophies</strong>
       </td>
       <td align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Mencke&layout=compact&theme=tokyonight" alt="Top Languages" width="220" />
