@@ -22,17 +22,6 @@
 
 ## 👋 Hi, ich bin Samuel
 
-<p align="center">
-  <picture>
-    <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px" align="center">
-  </picture>
-  *Über mich*
-
-  <picture>
-    <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px" align="center">
-  </picture>
-</p>
-
 💻 Ich entwickle Web- und Desktop-Anwendungen mit einem Fokus auf moderne Technologien und UX.
 📔 Auf meiner [Portfolio-Seite](https://samuel-mencke.gitbook.io) teile ich Artikel und Tutorials zu Webentwicklung, Desktop-Apps und Spieleprogrammierung.
 🌱 Derzeit vertiefe ich mein Wissen in *Azure, Web3 & Spiele-Toolkits (Unreal)*.
