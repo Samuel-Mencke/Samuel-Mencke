@@ -16,7 +16,8 @@
 
 * **Name:** Samuel Mencke
 * **Tätigkeit:** Full-Stack-Webentwicklung, Desktop-Apps & Spieleprogrammierung
-* **Portfolio:**&#x20;
+* **Portfolio:** [![Portfolio](https://img.shields.io/badge/Mein%20Portfolio-Visit-blue?style=for-the-badge\&logo=github)](https://samuel-mencke.github.io/)
+* **CTF-Enthusiast:** [Writeups & Walkthroughs](https://github.com/samuel-mencke/Writeups-and-Walkthroughs)
 
 ---
 
@@ -56,4 +57,5 @@
 </div>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Samuel-Mencke.Samuel-Menck
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Samuel-Mencke.Samuel-Mencke" alt="Besucher-Badge">
+</p>
