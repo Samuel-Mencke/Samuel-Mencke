@@ -1,6 +1,6 @@
 <p align="left">
   <a href="https://samuel-mencke.github.io/">
-    <img src="https://img.shields.io/badge/Mein%20Portfolio-Visit-blue?style=for-the-badge&logo=github" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Mein%20Portfolio-Visit-blue?style=for-the-badge&logo=github" alt="Portfolio" />
   </a>
 </p>
 
@@ -10,15 +10,7 @@
 
 ###
 
-<p align="left">
-  I'm Samuel from Germany, a full-stack web developer focused on web and app development. In my spare time, I also enjoy game development as a hobby.
-</p>
-
-###
-
 <h3 align="left">👩‍💻 About Me</h3>
-
-###
 
 <div align="center">
   <a href="mailto:samuelmencke31@gmail.com" target="_blank">
@@ -29,13 +21,15 @@
   </a>
 </div>
 
+<p align="left" style="margin-top: 15px;">
+  I'm Samuel from Germany, a full-stack web developer focused on web and app development. In my spare time, I also enjoy game development as a hobby.
+</p>
+
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and Tools</h3>
 
-###
-
-<div align="left">
+<div align="left" style="margin-top: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
@@ -57,23 +51,19 @@
 
 ###
 
-<h3 align="left">Github:</h3>
+<h3 align="left">Github</h3>
 
-###
-
-<div align="center">
+<div align="center" style="margin-top: 10px;">
   <img src="https://streak-stats.demolab.com?user=Samuel-Mencke&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
-###
-
-<div align="center">
+<div align="center" style="margin-top: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Samuel-Mencke&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Samuel-Mencke&layout=compact&card_width=320&langs_count=5&theme=dracula&locale=en&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
 ###
 
-<div align="center">
+<div align="center" style="margin-top: 10px;">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Samuel-Mencke.Samuel-Mencke" alt="visitor badge" />
 </div>
