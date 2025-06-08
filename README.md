@@ -46,27 +46,30 @@
 <table width="100%">
   <tr>
     <td align="center" width="25%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Samuel-Mencke&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="180" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Samuel-Mencke&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="300" />
       <br><strong style="font-size:1.2em">Statistics</strong>
     </td>
     <td align="center" width="25%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samuel-Mencke&theme=tokyonight" alt="GitHub Streak" width="180" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samuel-Mencke&theme=tokyonight" alt="GitHub Streak" width="300" />
       <br><strong style="font-size:1.2em">Streak</strong>
     </td>
     <td align="center" width="25%">
-      <img src="https://github-profile-trophy.vercel.app/?username=Samuel-Mencke&theme=tokyonight&column=4" alt="GitHub Trophies" width="180" />
+      <img src="https://github-profile-trophy.vercel.app/?username=Samuel-Mencke&theme=tokyonight&column=4" alt="GitHub Trophies" width="300" />
       <br><strong style="font-size:1.2em">Trophies</strong>
     </td>
     <td align="center" width="25%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Mencke&layout=compact&theme=tokyonight" alt="Top Languages" width="180" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Mencke&layout=compact&theme=tokyonight" alt="Top Languages" width="300" />
       <br><strong style="font-size:1.2em">Top Languages</strong>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/Samuel-Mencke" alt="Contributions Heatmap" width="100%" />
-  <br><strong style="font-size:1.2em">Contribution
+  <img src="https://ghchart.rshah.org/Samuel-Mencke" alt="Contributions Heatmap" width="100%" height="200" />
+  <br><strong style="font-size:1.2em">Contributions Heatmap</strong>
+</p>
+
+---
 
 ## 🤓 Dev-Life
 
