@@ -16,8 +16,12 @@
 
 * **Name:** Samuel Mencke
 * **Tätigkeit:** Full-Stack-Webentwicklung, Desktop-Apps & Spieleprogrammierung
-* **Portfolio:** [![Portfolio](https://img.shields.io/badge/Mein%20Portfolio-Visit-blue?style=for-the-badge\&logo=github)](https://samuel-mencke.github.io/)
-* **CTF-Enthusiast:** [Writeups & Walkthroughs](https://github.com/samuel-mencke/Writeups-and-Walkthroughs)
+
+<p align="left">
+  <a href="https://samuel-mencke.github.io/">
+    <img src="https://img.shields.io/badge/Mein%20Portfolio-Visit-blue?style=for-the-badge&logo=github" alt="Portfolio">
+  </a>
+</p>
 
 ---
 
