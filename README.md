@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left" style="font-size: 1.8em; margin-bottom: 10px;">👩‍💻 About Me</h3>
+<h3 align="left" style="font-size: 1.8em; margin-bottom: 10px;">About Me</h3>
 
 <p align="left" style="margin-bottom: 15px;">
   I'm Samuel from Germany, a full-stack web developer focused on web and app development. In my spare time, I also enjoy game development as a hobby.
@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="left" style="margin-bottom: 10px;">🛠 Languages and Tools</h3>
+<h3 align="left" style="margin-bottom: 10px;">Languages and Tools</h3>
 
 <div align="left" style="margin-top: 10px; margin-bottom: 30px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
