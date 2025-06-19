@@ -12,7 +12,7 @@
 
 <div align="left" style="margin-bottom: 30px;">
   <a href="https://samuel-mencke.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Mein%20Portfolio-Visit-blue?style=for-the-badge&logo=github" height="25" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Mein%20Portfolio-Visit?style=for-the-badge&labelColor=2D2D2D&color=0D1117&logo=github&logoColor=white" height="25" alt="Portfolio" />
   </a>
 </div>
 
@@ -45,14 +45,14 @@
 <h3 align="left" style="margin-bottom: 10px;">Github</h3>
 
 <div align="left" style="margin-top: 10px; margin-bottom: 20px;">
-  <img src="https://streak-stats.demolab.com?user=Samuel-Mencke&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Samuel-Mencke&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
 </div>
 
 <div align="left" style="margin-bottom: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samuel-Mencke&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Samuel-Mencke&layout=compact&card_width=320&langs_count=5&theme=dracula&locale=en&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Samuel-Mencke&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Samuel-Mencke&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 <div align="left" style="margin-bottom: 30px;">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Samuel-Mencke.Samuel-Mencke" alt="visitor badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Samuel-Mencke.Samuel-Mencke&theme=dark" alt="visitor badge" />
 </div>
