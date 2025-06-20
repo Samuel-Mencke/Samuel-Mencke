@@ -11,7 +11,7 @@
 </p>
 
 <div align="left" style="margin-bottom: 30px;">
-  <a href="https://samuel-mencke.github.io/" target="_blank">
+  <a href="https://portfolio.samuel-mencke.com/" target="_blank">
     <img src="https://img.shields.io/badge/Mein%20Portfolio-Visit?style=for-the-badge&labelColor=2D2D2D&color=0D1117&logo=github&logoColor=white" height="25" alt="Portfolio" />
   </a>
 </div>
