@@ -54,5 +54,5 @@
 </div>
 
 <div align="left" style="margin-bottom: 30px;">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Samuel-Mencke.Samuel-Mencke&theme=dark" alt="visitor badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=portfolio.Samuel-Mencke.Samuel-Mencke&theme=dark" alt="visitor badge" />
 </div>
