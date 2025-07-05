@@ -4,7 +4,7 @@ Welcome to my personal portfolio repository.
 
 Here I present selected work in the fields of software development, creative tools, automation, and modern web technologies.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Open-39ff14?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.samuel-mencke.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-39ff14?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.samuel-mencke.com)
 
 ---
 
