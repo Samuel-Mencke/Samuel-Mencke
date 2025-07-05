@@ -5,7 +5,13 @@ Welcome to my personal portfolio repository.
 Here I present selected work in the fields of software development, creative tools, automation, and modern web technologies.
 
 [![Visit Portfolio](https://img.shields.io/badge/Portfolio-samuel--mencke.com-39ff14?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.samuel-mencke.com)
-[![Contact Me](https://img.shields.io/badge/Contact-Get%20in%20Touch-555?style=for-the-badge&logo=minutemailer&logoColor=white)](https://portfolio.samuel-mencke.com/#contact)
+
+---
+
+## Contact
+
+Email: [mail@samuel-mencke.com](mailto:mail@samuel-mencke.com)  
+Contact Form: [https://portfolio.samuel-mencke.com/#contact](https://portfolio.samuel-mencke.com/#contact)
 
 ---
 
