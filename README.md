@@ -1,31 +1,23 @@
-#Samuel Mencke – Portfolio
+# Samuel Mencke – Developer Portfolio
 
-Willkommen in meinem persönlichen Portfolio-Repository.
+Welcome to my personal portfolio repository.
 
-Hier präsentiere ich ausgewählte Arbeiten aus den Bereichen Softwareentwicklung, kreative Tools und moderne Webtechnologien.
+Here I present selected work in the fields of software development, creative tools, automation, and modern web technologies.
 
-**Live ansehen:** [https://portfolio.samuel-mencke.com](https://portfolio.samuel-mencke.com)
-
----
-
-##Technologien
-
-- HTML, CSS, JavaScript
-- PHP, Python
-- PySide6, Qt, Flask
-- MySQL, REST-APIs
-- Game Hacking & Memory Tools
-- Websockets, Slack-Integration
+[![Visit Portfolio](https://img.shields.io/badge/Portfolio-samuel--mencke.com-39ff14?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.samuel-mencke.com)
+[![Contact Me](https://img.shields.io/badge/Contact-Get%20in%20Touch-555?style=for-the-badge&logo=minutemailer&logoColor=white)](https://portfolio.samuel-mencke.com/#contact)
 
 ---
 
-##Kontakt
+## Tech Stack
 
-Wenn du Feedback hast oder mit mir zusammenarbeiten möchtest:
-
-- E-Mail: [mail@samuel-mencke.com](mailto:mail@samuel-mencke.com)
-- Web: [portfolio.samuel-mencke.com](https://portfolio.samuel-mencke.com)
+- HTML, CSS, JavaScript  
+- PHP, Python  
+- PySide6, Qt, Flask  
+- MySQL, REST APIs  
+- WebSockets, Slack Integration  
+- Game Tools & Memory Access  
 
 ---
 
-> © 2025 Samuel Mencke. Alle Rechte vorbehalten.
+> © 2025 Samuel Mencke. All rights reserved.
