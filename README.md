@@ -1,14 +1,14 @@
-# 🧠 Samuel Mencke – Portfolio
+#Samuel Mencke – Portfolio
 
 Willkommen in meinem persönlichen Portfolio-Repository.
 
 Hier präsentiere ich ausgewählte Arbeiten aus den Bereichen Softwareentwicklung, kreative Tools und moderne Webtechnologien.
 
-🌐 **Live ansehen:** [https://portfolio.samuel-mencke.com](https://portfolio.samuel-mencke.com)
+**Live ansehen:** [https://portfolio.samuel-mencke.com](https://portfolio.samuel-mencke.com)
 
 ---
 
-## ⚙️ Technologien
+##Technologien
 
 - HTML, CSS, JavaScript
 - PHP, Python
@@ -19,12 +19,12 @@ Hier präsentiere ich ausgewählte Arbeiten aus den Bereichen Softwareentwicklun
 
 ---
 
-## 📫 Kontakt
+##Kontakt
 
 Wenn du Feedback hast oder mit mir zusammenarbeiten möchtest:
 
-- ✉️ E-Mail: [mail@samuel-mencke.com](mailto:mail@samuel-mencke.com)
-- 🌍 Web: [portfolio.samuel-mencke.com](https://portfolio.samuel-mencke.com)
+- E-Mail: [mail@samuel-mencke.com](mailto:mail@samuel-mencke.com)
+- Web: [portfolio.samuel-mencke.com](https://portfolio.samuel-mencke.com)
 
 ---
 
