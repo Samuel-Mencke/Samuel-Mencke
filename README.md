@@ -26,4 +26,4 @@ Contact Form: [https://portfolio.samuel-mencke.com/#contact](https://portfolio.s
 
 ---
 
-> © 2025 Samuel Mencke. All rights reserved.
+> © 2024 Samuel Mencke.
