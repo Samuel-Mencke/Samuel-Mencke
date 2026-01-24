@@ -1,4 +1,4 @@
-# Samuel Mencke – Developer Portfolio
+# Samuel Mencke – Hobby Developer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-gray?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.samuel-mencke.com)
 
